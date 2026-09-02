@@ -93,6 +93,17 @@ pertinent (une seule différence entre elles, pour qu'on sache ce qu'on mesure).
 
 ---
 
+## Si l'utilisateur arrive avec un message déjà écrit
+
+Ne réécris pas tout le framework par réflexe. Il a déjà son mouvement — il veut avancer,
+pas un cours. Réponds court : **valide** ce qui tient, ajoute **au plus UN** contrôle à
+haute valeur (le plus souvent : « l'ancrage est-il vrai pour *chacun* des prospects, ou tu
+réutilises la même phrase sur un élément vu chez un seul ? »), puis **renvoie à l'envoi**
+et à la boucle de retour. Ne redonne l'angle, les relances et les branches (positif /
+hésitation / refus) **que s'il les demande** ou si le message a un vrai défaut.
+
+---
+
 ## Limite du mode
 
 Ce mode **prépare une approche**. Il ne : scrape pas · n'envoie pas · n'enrichit pas · ne
